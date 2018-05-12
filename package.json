@@ -1,0 +1,19 @@
+{
+  "name": "passback",
+  "version": "1.0.0",
+  "description": "Meal Swipe Exchange Program for Tufts University",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnWestwig/passback.git"
+  },
+  "author": "John Westwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnWestwig/passback/issues"
+  },
+  "homepage": "https://github.com/JohnWestwig/passback#readme"
+}
