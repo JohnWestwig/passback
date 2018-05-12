@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JohnWestwig/passback/issues"
   },
-  "homepage": "https://github.com/JohnWestwig/passback#readme"
+  "homepage": "https://github.com/JohnWestwig/passback#readme",
+  "dependencies": {
+    "graphql": "^0.13.2"
+  }
 }
